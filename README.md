@@ -14,11 +14,11 @@
 ## Step 2:
 ### Pull Yelp API data for my neighbourhood.
 ### Organize, analyze and store Yelp API data.
-## Step 5: 
+## Step 3: 
 ### Create SQL database schema.
-## Step 6:
+## Step 4:
 ### Organize, analyze and store API data into SQL database schema.
-## Step 7:
+## Step 5:
 ### Evaluate and assess data coverage from both APIs.
 
 
