@@ -3,9 +3,9 @@
 ### [Assignment](assignment.md)
 
 ## Project/Goals
-# Gather and create a database of Points Of Interest (POI) in my neighbourhood. 
-# Include bars, restaurants, and other places of interest (parks, tourist locals, neighbourhood sights).
-# Compare and contrast the quality of the API coverage of the area.
+#### Gather and create a database of Points Of Interest (POI) in my neighbourhood. 
+#### Include bars, restaurants, and other places of interest (parks, tourist locals, neighbourhood sights).
+#### Compare and contrast the quality of the API coverage of the area.
 
 ## Process
 ### Step 1: 
