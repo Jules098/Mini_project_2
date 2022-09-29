@@ -10,11 +10,9 @@
 ## Process
 ## Step 1: 
 ### Pull Foursquare API data for my neighbourhood.
-## Step 2: 
 ### Organize, analyze and store Foursquare API data.
-## Step 3:
+## Step 2:
 ### Pull Yelp API data for my neighbourhood.
-## Step 4:
 ### Organize, analyze and store Yelp API data.
 ## Step 5: 
 ### Create SQL database schema.
