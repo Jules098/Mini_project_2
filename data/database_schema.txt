@@ -1,0 +1,56 @@
+CREATE TABLE IF NOT EXISTS "FS_bars_info" (
+"name" TEXT,
+  "rating" REAL
+);
+CREATE TABLE IF NOT EXISTS "FS_bakeries_info" (
+"name" TEXT,
+  "rating" REAL
+);
+CREATE TABLE IF NOT EXISTS "FS_cafes_info" (
+"name" TEXT,
+  "rating" REAL
+);
+CREATE TABLE IF NOT EXISTS "FS_Museums_info" (
+"name" TEXT,
+  "rating" REAL
+);
+CREATE TABLE IF NOT EXISTS "FS_Performing_Arts_info" (
+"name" TEXT,
+  "rating" REAL
+);
+CREATE TABLE IF NOT EXISTS "FS_Pool_Hall_info" (
+"name" TEXT,
+  "rating" REAL
+);
+CREATE TABLE IF NOT EXISTS "FS_Outdoors_info" (
+"name" TEXT,
+  "rating" REAL
+);
+CREATE TABLE IF NOT EXISTS "Yelp_bars_info" (
+"Bars" TEXT,
+  "ratings" REAL
+);
+CREATE TABLE IF NOT EXISTS "Yelp_bakeries_info" (
+"Bakeries" TEXT,
+  "ratings" REAL
+);
+CREATE TABLE IF NOT EXISTS "Yelp_cafes_info" (
+"Cafes" TEXT,
+  "ratings" REAL
+);
+CREATE TABLE IF NOT EXISTS "Yelp_museums_info" (
+"Museums" TEXT,
+  "ratings" REAL
+);
+CREATE TABLE IF NOT EXISTS "Yelp_theater_info" (
+"Performance Arts Centers" TEXT,
+  "ratings" REAL
+);
+CREATE TABLE IF NOT EXISTS "Yelp_pool_hall_info" (
+"Pool Halls" TEXT,
+  "ratings" REAL
+);
+CREATE TABLE IF NOT EXISTS "Yelp_parks_info" (
+"Parks" TEXT,
+  "ratings" REAL
+);
