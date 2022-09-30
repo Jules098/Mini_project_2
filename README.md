@@ -23,10 +23,19 @@
 
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area)
+The Foursquare API pulled in more unique values for every category with the exception of Cafés.  That being said, upon closer inspection many of the values in certain categories are inaccurate or are too broadly applied.  For example: the 5 most common bars within a 5km radius of my house according to the Foursquare API are:
+
+1. Boulangerie Première Moisson        3
+2. St-Viateur Bagel                    2
+3. Boulangerie les Co'Pains d'Abord    2
+4. Boulangerie Guillaume               2
+5. Mamie Clafoutis                     2
+
+All of these would better be categorized as bakeries or cafés and some of them do in fact show up again in bakeries.
+Overall I would say the Yelp API had better coverage of my area as it is more accurately categorized.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+Getting used to the yelp API probably took me longer than it should have.  Once I did however it felt like smooth sailing.  I would say the biggest challenge has been the end process of taking all the data I have accumulated and turning it into something.
 
 ## Future Goals
-(what would you do if you had more time?)
+With more time I would like to gather different dimensions from the API calls.  Ratings would be good
