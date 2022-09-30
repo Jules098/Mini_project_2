@@ -38,4 +38,4 @@ Overall I would say the Yelp API had better quality and quantity of data when it
 Getting used to the yelp API probably took me longer than it should have.  Once I did however it felt like smooth sailing.  I would say the biggest challenge has been the end process of taking all the data I have accumulated and turning it into something.
 
 ## Future Goals
-With more time I would like to gather different dimensions from the API calls.  Ratings would be good.
+With more time I would like to gather different dimensions from the API calls.  Fleshing out a richer picture with more data could lead to questions and ideas I haven't even yet thought of.
