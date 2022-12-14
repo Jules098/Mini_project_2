@@ -1,4 +1,4 @@
-# Miniproject 2
+# Miniproject 2 - Montreal Touring
 
 ### [Assignment](assignment.md)
 
